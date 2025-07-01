@@ -3,7 +3,7 @@ I studdy programming in kood/Jõhvi schole.<br>I have just started to learn Mach
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alenabudaragina) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/олена-бударагіна-27754b247) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@user-dr3rh4yb8v)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alenabudaragina) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/олена-бударагіна-27754b247](https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B1%D1%83%D0%B4%D0%B0%D1%80%D0%B0%D0%B3%D1%96%D0%BD%D0%B0-27754b247/)) 
 
 ![Static Badge](https://img.shields.io/badge/profile-blue?style=plastic&logo=kaggle&logoColor=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Fobudarahina)
 
