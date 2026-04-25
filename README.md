@@ -1,5 +1,5 @@
 # 💫 About Me:
-I studdy programming in kood/Jõhvi schole.<br>I have just started to learn Machine Learning, <br>so I am glad to get any help in it :)
+I studdy Machine Learning. <br>Learning never ends  :)
 
 
 ## 🌐 Socials:
