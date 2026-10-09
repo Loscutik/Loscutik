@@ -23,7 +23,7 @@ Kood/Jõhvi Programming School
 ● Coursera: [Google AI Specialization](https://coursera.org/share/6a1bedd222d5acbc45a82c9cf6a471d1)  
 ● Azure: [Introduction to Cloud Infrastructure](https://learn.microsoft.com/api/achievements/share/en-us/58441650/NMZZ832F?sharingId=48EB72390323C57E)  
 ● CS50: [Introduction to Computer Science (Prometheus)](https://certs.prometheus.org.ua/downloads/cb820d5ffb194e71a1c894f41cb60594/Certificate.pdf)  
-[Algorithm Design & Analysis](https://certs.prometheus.org.ua/downloads/cb820d5ffb194e71a1c894f41cb60594/Certificate.pdf)  (Prometheus)   
+● [Algorithm Design & Analysis](https://certs.prometheus.org.ua/downloads/cb820d5ffb194e71a1c894f41cb60594/Certificate.pdf)  (Prometheus)   
 ● Kaggle: 5-Day Generative AI Course   
 ● Web Design Certificate – Kharkiv National University of Radio Electronics   
 
