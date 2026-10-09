@@ -1,5 +1,5 @@
 # 💫 About Me:
-I studdy Machine Learning. <br>Learning never ends  :)
+Learning never ends  :)
 
 
 ## 🌐 Socials:
